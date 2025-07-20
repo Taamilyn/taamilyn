@@ -1,6 +1,17 @@
-<p align="right"></p>
+<h1 align="left">👋 Hey, I'm Tamilyn</h1>
 
 ###
+
+<p align="left">Statistician with 9+ years of experience delivering strategic insights and impact to business decisions. Constantly recognized for delivering high-quality work with strategic, creative mindset and collaborative approach.<br><br>I work with R, SAS, Python, SQL (SAS, BigQuery, TERADATA, PostgreSQL), cloud computing, automations, data-visualization and dashboards (Excel, Power BI, Looker Studio), statistical analyses and models for performance evaluation, KPI monitoring and data-driven strategic decision-making support.<br><br>I'm driven by curiosity, optimization and continuous learning. I seek deepening statistical and computational techniques in Machine Learning, Linear Algebra, Regression, Time Series Analysis, Forecasting, Neural Networks, Business and Artificial Intelligence. Expand my repertoire is a strategical complement to my ability to generate value with data.<br><br></p>
+
+
+###
+
+<h4 align="left">Let's connect ⚡</h4>
+
+###
+
+<br clear="both">
 
 <div align="center">
   <a href="https://www.linkedin.com/in/tamilyn/" target="_blank">
@@ -10,22 +21,6 @@
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
 </div>
-
-###
-
-<p align="left"></p>
-
-###
-
-<h1 align="left">👋 Hey, I'm Tamilyn</h1>
-
-###
-
-<p align="left">⚡ Statistician with 9+ years of experience delivering strategic insights and impact to business decisions. Constantly recognized for delivering high-quality work with strategic, creative mindset and collaborative approach.<br><br>✨ I work with R, SAS, Python, SQL (SAS, BigQuery, TERADATA, PostgreSQL), cloud computing, automations, data-visualization and dashboards (Excel, Power BI, Looker Studio), statistical analyses and models for performance evaluation, KPI monitoring and data-driven strategic decision-making support.<br><br>🔥 I'm driven by curiosity, optimization and continuous learning. I seek deepening statistical and computational techniques in Machine Learning, Linear Algebra, Regression, Time Series Analysis, Forecasting, Neural Networks, Business and Artificial Intelligence. Expand my repertoire is a strategical complement to my ability to generate value with data.<br><br>🚀 I’m open to opportunities in Business Intelligence, Analytics and Data Science.</p>
-
-###
-
-<h3 align="left"></h3>
 
 ###
 
@@ -71,11 +66,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="25" alt="canva logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=latex" height="25" alt="latex logo"  />
-</div>
-
-###
-
-<div align="center">
 </div>
 
 ###
