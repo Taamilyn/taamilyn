@@ -2,12 +2,12 @@
 
 ###
 
-<p align="left">Statistician with 9+ years of experience delivering strategic insights and impact to business decisions. Constantly recognized for delivering high-quality work with strategic, creative mindset and collaborative approach.<br><br>I work with R, SAS, Python, SQL (SAS, BigQuery, TERADATA, PostgreSQL), cloud computing, automations, data-visualization and dashboards (Excel, Power BI, Looker Studio), statistical analyses and models for performance evaluation, KPI monitoring and data-driven strategic decision-making support.<br><br>I'm driven by curiosity, optimization and continuous learning. I seek deepening statistical and computational techniques in Machine Learning, Linear Algebra, Regression, Time Series Analysis, Forecasting, Neural Networks, Business and Artificial Intelligence. Expand my repertoire is a strategical complement to my ability to generate value with data.<br><br></p>
+<p align="left">Statistician with 9+ years of experience delivering strategic insights and impacts to business decisions. Constantly recognized for delivering high-quality work with strategic, creative mindset and collaborative approach.<br><br>I work with R, SAS, Python, SQL (SAS, BigQuery, TERADATA, PostgreSQL), cloud computing, automations, data-visualization and dashboards (Excel, Power BI, Looker Studio), statistical analyses and models for performance evaluation, KPI monitoring and data-driven strategic decision-making support.<br><br>I'm driven by curiosity, optimization and continuous learning. I seek deepening statistical and computational techniques in Machine Learning, Linear Algebra, Regression, Time Series Analysis, Forecasting, Neural Networks, Business and Artificial Intelligence. Expand my repertoire is a strategical complement to my ability to generate value with data.<br><br></p>
 
 
 ###
 
-<h4 align="left">Let's connect ⚡</h4>
+<h4 align="left">⚡ Let's connect!</h4>
 
 ###
 
